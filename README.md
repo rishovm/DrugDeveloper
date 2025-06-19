@@ -65,7 +65,7 @@ python DrugDeveloper.py
 Enter a valid SMILES string when prompted.
 
 🧠 Limitations
-Rule-based: does not use machine learning or predictive models.
+Rule-based: Based on Lipinski's rule.
 
 Simplified estimates for MW and logP.
 
