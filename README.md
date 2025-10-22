@@ -54,7 +54,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/DrugDeveloper.git
+git clone https://github.com/rishovm/DrugDeveloper.git
 cd DrugDeveloper
 Run the script:
 
